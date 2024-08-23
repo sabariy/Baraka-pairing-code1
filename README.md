@@ -9,5 +9,5 @@
 
 
 
-## 🙌 `Bot Developers and Contributors`
-| [![Barakabegaa](https://github.com/Barakabegaa.png)](https://github.com/Barakabegaa) | [![Barakabegaa](https://github.com/Barakabegaa.png)](https://github.com/Ibrahimitech.) | [![ibrahimitech]
+### `DEVELOPERS`
+| [![Barakabegaa](https://github.com/Barakabegaa.png)](https://github.com/Barakabegaa) | [![Barakabegaa]
