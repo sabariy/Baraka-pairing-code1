@@ -10,4 +10,4 @@
 
 
 ## 🙌 `Bot Developers and Contributors`
-| [![Barakabegaa](https://github.com/Barakabegaa.png)](https://github.com/Barakabegaa) | [![Barakabegaa](https://github.com/Barakabegaa.png)](https://github.com/Barakabegaa.) | [![Ibrahimitech](https://github.com/Ibrahimitech.png)](https://github.com/Ibrahimitech) | [![VENOX](https://github.com/V-E-N-O-X.png)](https://github.com/V-E-N-O-X) | [![Syntax-king](https://github.com/syntax-king.png)](https://github.com/syntax-king) |
+| [![Barakabegaa](https://github.com/Barakabegaa.png)](https://github.com/Barakabegaa) | [![Barakabegaa](https://github.com/Barakabegaa.png)](https://github.com/Ibrahimitech.) | [![ibrahimitech]
