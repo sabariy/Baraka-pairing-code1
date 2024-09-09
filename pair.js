@@ -56,25 +56,7 @@ router.get('/', async (req, res) => {
                let b64data = Buffer.from(data).toString('base64');
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
-               let SIGMA_MD_TEXT = `
-*𝑩𝑨𝑹𝑨𝑲𝑨-𝑴𝑫-𝑩𝑶𝑻 𝑺𝑬𝑺𝑺𝑰𝑶𝑵 𝑪𝑶𝑵𝑵𝑬𝑪𝑻𝑬𝑫*
-
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-~𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒊𝒔 𝒘𝒂𝒄𝒉𝒂𝒏𝒏𝒆𝒍 𝒇𝒐𝒓 𝒃𝒐𝒕 𝒖𝒑𝒅𝒂𝒕𝒆𝒔~
-> https://whatsapp.com/channel/0029Vail87sIyPtQoZ2egl1h
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
-
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
-~𝑭𝒐𝒓 𝒎𝒐𝒓𝒆 𝒊𝒏𝒇𝒐 𝒕𝒂𝒑 𝒐𝒏 𝒕𝒉𝒆 𝒍𝒊𝒏𝒌 𝒃𝒆𝒍𝒐𝒘~
-> https://github.com/ibrahimaitech 
-> https://github.com/Barakabegaa
-
-❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒❒
- ~𝑭𝒐𝒓 𝒂𝒏𝒚 𝒑𝒓𝒐𝒃𝒍𝒆𝒎 𝒕𝒆𝒙𝒕 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓~
-> https://wa.me/message/5FF6DYYUQXKSL1
-> https://wa.me/message/74F2PC4JA4F3P1
-
-*𝑴𝑨𝑫𝑬 𝑩𝒀 𝑩𝑨𝑹𝑨𝑲𝑨 𝑩𝑬𝑮𝑨*❒❒❒❒❒❒❒❒❒`
+               let SIGMA_MD_TEXT = `𝘛𝘩𝘢𝘯𝘬 𝘠𝘰𝘶 𝘍𝘰𝘳 𝘊𝘩𝘰𝘰𝘴𝘪𝘯𝘨 𝘍𝘦𝘯𝘪𝘹 𝘔𝘥\n\n 𝘋𝘰𝘯'𝘵 𝘚𝘩𝘢𝘳𝘦 𝘠𝘰𝘶 𝘚𝘦𝘴𝘴𝘪𝘰𝘯 𝘐𝘥 𝘞𝘪𝘵𝘩 𝘌𝘯𝘺𝘰𝘯𝘦`
  await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
  
 
